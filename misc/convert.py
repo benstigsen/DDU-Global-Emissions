@@ -1,3 +1,5 @@
+# Convert three letter codes -> two letter codes
+# (Denmark) DNK -> DK
 import json
 
 codes = None

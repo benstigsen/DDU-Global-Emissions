@@ -213,7 +213,6 @@ new svgMap({
       YE: {emission: 10255048},
       ZM: {emission: 6720490},
       ZW: {emission: 10374287},
-      // ...
     }
   }
 });
