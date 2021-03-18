@@ -1,3 +1,6 @@
+// data: https://ourworldindata.org/co2-emissions#annual-co2-emissions
+// map:  https://github.com/StephanWagner/svgMap
+
 new svgMap({
   targetElementID: 'svgMap',
   data: {
