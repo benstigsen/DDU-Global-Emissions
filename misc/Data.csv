@@ -1,0 +1,226 @@
+name;id;data
+Afghanistan;AFG;10720332
+Africa;;1434872613
+Albania;ALB;5579015
+Algeria;DZA;171707041
+Andorra;AND;470495
+Angola;AGO;38020297
+Anguilla;AIA;143293
+Antigua and Barbuda;ATG;492341
+Argentina;ARG;178939546
+Armenia;ARM;6005927
+Aruba;ABW;918546
+Asia;;20241964120
+Asia (excl. China & India);;7450834199
+Australia;AUS;411015667
+Austria;AUT;68495143
+Azerbaijan;AZE;39820063
+Bahamas;BHS;1979149
+Bahrain;BHR;34354328
+Bangladesh;BGD;102161676
+Barbados;BRB;1186602
+Belarus;BLR;62483877
+Belgium;BEL;99708878
+Belize;BLZ;632797
+Benin;BEN;7998145
+Bermuda;BMU;631960
+Bhutan;BTN;1706825
+Bolivia;BOL;22574851
+Bonaire Sint Eustatius and Saba;BES;334351
+Bosnia and Herzegovina;BIH;26621092
+Botswana;BWA;6316388
+Brazil;BRA;465715770
+British Virgin Islands;VGB;169012
+Brunei;BRN;9088688
+Bulgaria;BGR;42006473
+Burkina Faso;BFA;4301291
+Burundi;BDI;579786
+Cambodia;KHM;16026972
+Cameroon;CMR;7592750
+Canada;CAN;576650511
+Cape Verde;CPV;633890
+Central African Republic;CAF;307653
+Chad;TCD;1030268
+Chile;CHL;84266622
+China;CHN;10174681100
+Colombia;COL;102202444
+Comoros;COM;253114
+Congo;COG;3456980
+Cook Islands;COK;77460
+Costa Rica;CRI;8507521
+Croatia;HRV;17882170
+Cuba;CUB;25988450
+Cyprus;CYP;7315731
+Czechia;CZE;101009765
+Democratic Republic of Congo;COD;2282718
+Denmark;DNK;32075494
+Djibouti;DJI;399373
+Dominica;DMA;161664
+Dominican Republic;DOM;27378802
+EU-27;;2916906140
+EU-28;;3286784536
+Ecuador;ECU;40540282
+Egypt;EGY;246642918
+El Salvador;SLV;6207296
+Equatorial Guinea;GNQ;5633778
+Eritrea;ERI;727233
+Estonia;EST;13888373
+Eswatini;SWZ;973848
+Ethiopia;ETH;1,63E+16
+Europe;;5448708693
+Europe (excl. EU-27);;2540064891
+Europe (excl. EU-28);;2170186495
+Faeroe Islands;FRO;715004
+Fiji;FJI;2257134
+Finland;FIN;41652603
+France;FRA;323747139
+French Polynesia;PYF;831677
+Gabon;GAB;4704935
+Gambia;GMB;585713
+Georgia;GEO;10286677
+Germany;DEU;701955108
+Ghana;GHA;14959912
+Greece;GRC;67183971
+Greenland;GRL;518656
+Grenada;GRD;287951
+Guatemala;GTM;20513439
+Guinea;GIN;3153404
+Guinea-Bissau;GNB;320957
+Guyana;GUY;2390398
+Haiti;HTI;3280850
+Honduras;HND;10928412
+Hong Kong;HKG;41536352
+Hungary;HUN;49101007
+Iceland;ISL;3321657
+India;IND;2616448820
+Indonesia;IDN;617512648
+International transport;;1261776534
+Iran;IRN;779526533
+Iraq;IRQ;221383949
+Ireland;IRL;37117688
+Israel;ISR;6,42E+15
+Italy;ITA;337086213
+Jamaica;JAM;8014192
+Japan;JPN;1106664426
+Jordan;JOR;26071583
+Kazakhstan;KAZ;313797848
+Kenya;KEN;17315266
+Kiribati;KIR;73383
+Kosovo;OWID_KOS;9741437
+Kuwait;KWT;107532047
+Kyrgyzstan;KGZ;11482589
+Laos;LAO;3,28E+16
+Latvia;LVA;8262338
+Lebanon;LBN;28202071
+Lesotho;LSO;2223231
+Liberia;LBR;1321680
+Libya;LBY;46427779
+Liechtenstein;LIE;145802
+Lithuania;LTU;13483413
+Luxembourg;LUX;9784853
+Macao;MAC;2,06E+16
+Madagascar;MDG;4014831
+Malawi;MWI;1466344
+Malaysia;MYS;250094688
+Maldives;MDV;1667430
+Mali;MLI;3394412
+Malta;MLT;1553776
+Marshall Islands;MHL;163074
+Mauritania;MRT;4,09E+16
+Mauritius;MUS;4686810
+Mexico;MEX;438497623
+Micronesia;;158997
+Moldova;MDA;5957810
+Mongolia;MNG;6,55E+15
+Montenegro;MNE;2461441
+Montserrat;MSR;29393
+Morocco;MAR;71928924
+Mozambique;MOZ;8705807
+Myanmar;MMR;26231575
+Namibia;NAM;4,17E+16
+Nauru;NRU;52999
+Nepal;NPL;13913522
+Netherlands;NLD;154826594
+New Caledonia;NCL;8451602
+New Zealand;NZL;36540963
+Nicaragua;NIC;5548625
+Niger;NER;2135276
+Nigeria;NGA;140026463
+Niue;NIU;8154
+North America;;6475979335
+North America (excl. USA);;1191282678
+North Korea;PRK;38762163
+North Macedonia;MKD;8,04E+15
+Norway;NOR;42440799
+Oceania;;467761635
+Oman;OMN;71684606
+Pakistan;PAK;248843938
+Palestine;PSE;3303220
+Panama;PAN;12503103
+Papua New Guinea;PNG;7086853
+Paraguay;PRY;8272283
+Peru;PER;54533175
+Philippines;PHL;144262785
+Poland;POL;322626493
+Portugal;PRT;48597835
+Qatar;QAT;109344710
+Romania;ROU;75084050
+Russia;RUS;1678366791
+Rwanda;RWA;1110913
+Saint Helena;SHN;11023
+Saint Kitts and Nevis;KNA;242496
+Saint Lucia;LCA;352722
+Saint Pierre and Miquelon;SPM;77158
+Saint Vincent and the Grenadines;VCT;257193
+Samoa;WSM;285379
+Sao Tome and Principe;STP;129138
+Saudi Arabia;SAU;582149599
+Senegal;SEN;9822725
+Serbia;SRB;54666675
+Seychelles;SYC;623050
+Sierra Leone;SLE;1,03E+16
+Singapore;SGP;38944802
+Sint Maarten (Dutch part);SXM;753208
+Slovakia;SVK;33314769
+Slovenia;SVN;13696428
+Solomon Islands;SLB;317994
+Somalia;SOM;677567
+South Africa;ZAF;478608101
+South America;;1085107306
+South Korea;KOR;611263215
+South Sudan;SSD;1584884
+Spain;ESP;252683217
+Sri Lanka;LKA;24841152
+Sudan;SDN;22980726
+Suriname;SUR;2606035
+Sweden;SWE;42766618
+Switzerland;CHE;37681506
+Syria;SYR;26960685
+Taiwan;TWN;2,63E+16
+Tajikistan;TJK;8979885
+Tanzania;TZA;11626306
+Thailand;THA;288279747
+Timor;TLS;554451
+Togo;TGO;3261434
+Tonga;TON;175304
+Trinidad and Tobago;TTO;37863888
+Tunisia;TUN;31012921
+Turkey;TUR;405126365
+Turkmenistan;TKM;85646506
+Turks and Caicos Islands;TCA;231474
+Tuvalu;TUV;12231
+Uganda;UGA;5531265
+Ukraine;UKR;223229393
+United Arab Emirates;ARE;190683060
+United Kingdom;GBR;369878396
+United States;USA;5284696657
+Uruguay;URY;6378115
+Uzbekistan;UZB;110245989
+Vanuatu;VUT;154920
+Venezuela;VEN;116687785
+Vietnam;VNM;247708911
+Wallis and Futuna Islands;;28538
+World;OWID_WRL;36441387580
+Yemen;YEM;10255048
+Zambia;ZMB;6720490
+Zimbabwe;ZWE;10374287
