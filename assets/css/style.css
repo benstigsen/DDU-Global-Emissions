@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@700&display=swap');
+
+body {
+  background-color: #2e3440;
+}
+
+#title {
+  font-size: 48px;
+  font-family: 'Cabin', sans-serif;
+  text-align: center;
+  background:linear-gradient(0deg,#a5e091 20%,#e96d65 80%);
+  background:-webkit-linear-gradient(0deg,#a5e091 20%,#e96d65 80%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#description {
+  font-family: 'Cabin', sans-serif;
+  color: #ffffff;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#svgMap {
+  border-radius: 100px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
