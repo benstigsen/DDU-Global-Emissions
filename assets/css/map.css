@@ -1,4 +1,6 @@
 /*! svgMap | https://github.com/StephanWagner/svgMap | MIT License | Copyright Stephan Wagner | https://stephanwagner.me */
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@700&display=swap');
+
 .svgMap-map-wrapper {
   position: relative;
   width: 100%;
@@ -131,16 +133,23 @@
 }
 
 .svgMap-tooltip {
+  font-family: 'Cabin', sans-serif;
   box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
   position: absolute;
   z-index: 2;
   border-radius: 2px;
-  background: #fff;
+  //background: #fff;
+  background: #3b4252;
+  color: #ffffff;
   transform: translate(-50%, -100%);
-  border-bottom: 1px solid #000;
+  //border: 1px solid #000;
+  -moz-box-shadow:    inset 0 0 2px #000000;
+  -webkit-box-shadow: inset 0 0 2px #000000;
+  box-shadow:         inset 0 0 2px #000000;
   display: none;
   pointer-events: none;
   min-width: 60px;
+  border-radius: 25px;
 }
 
 .svgMap-tooltip.svgMap-tooltip-flipped {
@@ -191,7 +200,7 @@
   white-space: nowrap;
   text-align: center;
   font-size: 14px;
-  color: #777;
+  color: #777777;
   margin: -5px 0 0;
 }
 
@@ -207,7 +216,8 @@
 }
 
 .svgMap-tooltip .svgMap-tooltip-content table td span {
-  color: #111;
+  //color: #111;
+  color: #ffffff;
 }
 
 .svgMap-tooltip .svgMap-tooltip-content table td:first-child {
