@@ -5,15 +5,7 @@ new svgMap({
   targetElementID: 'svgMap',
   colorMax: "#bf616a",
   colorMin: "#a3be8c",
-  colorNoData: "#b48ead",
-  /*
-  colorMax: "#2e3440",
-  colorMin: "#d8dee9",
-  colorNoData: "#000000",
-  colorMax: "#5e81ac",
-  colorMin: "#8fbcbb",
-  colorNoData: "#b48ead",
-  */
+  colorNoData: "#88c0d0",
   data: {
     data: {
       emission: {
