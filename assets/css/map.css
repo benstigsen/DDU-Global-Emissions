@@ -218,6 +218,12 @@
 .svgMap-tooltip .svgMap-tooltip-content table td span {
   //color: #111;
   color: #ffffff;
+  /*
+  background:linear-gradient(0deg,#a5e091 20%,#e96d65 80%);
+  background:-webkit-linear-gradient(0deg,#a5e091 20%,#e96d65 80%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  */
 }
 
 .svgMap-tooltip .svgMap-tooltip-content table td:first-child {
