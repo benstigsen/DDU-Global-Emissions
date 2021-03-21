@@ -2,7 +2,7 @@
 // map:  https://github.com/StephanWagner/svgMap
 
 new svgMap({
-  targetElementID: 'svgMap',
+  targetElementID: 'map',
   colorMax: "#bf616a",
   colorMin: "#a3be8c",
   colorNoData: "#88c0d0",
