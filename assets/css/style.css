@@ -47,16 +47,6 @@ h2 {
   -webkit-text-fill-color: transparent;
 }
 
-.list {
-  text-align: left;
-  max-width: 55%;
-  margin-top: -10px;
-  list-style-position: outside;
-  text-align: left;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 footer {
   font-family: 'Cabin', sans-serif;
   text-align: center;
